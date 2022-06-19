@@ -39,7 +39,7 @@ argcomplete==1.12.3
 asgiref==3.5.0
 attrs==21.4.0
 backports.zoneinfo==0.2.1
-beautifulsoup4==4.11.1
+
 bidict==0.21.4
 blinker==1.4
 boto3==1.21.13
