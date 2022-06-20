@@ -8,7 +8,7 @@ from datetime import datetime
 from datetime import timedelta
 from pymongo import MongoClient
 from bson.objectid import ObjectId
-client = MongoClient('mongodb://admin:F5tMazRj47cYqm33e@35.88.43.45:27017/')
+client = MongoClient('mongodb://admin:test!_2o20@52.37.152.224:27017/')
 db=client.compass
 
 
@@ -21,7 +21,7 @@ class Api:
     
     
 
-    client = MongoClient('mongodb://admin:F5tMazRj47cYqm33e@35.88.43.45:27017/')
+    client = MongoClient('mongodb://admin:test!_2o20@52.37.152.224:27017/')
     db=client.compass
     
     
