@@ -288,6 +288,4 @@ def prepareEmail(contact_list):
 if __name__ == '__main__':
     # port = int(os.getenv('PORT'))
     # print("Starting app on port %d" % port)
-    app.run()
-'''if __name__ == "__main__":
-    app.run(port=5000, debug=True)''' # running the app on the local machine on port 8000
+    app.run() # running the app on the local machine on port 8000
